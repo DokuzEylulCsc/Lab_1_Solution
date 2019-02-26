@@ -1,0 +1,4 @@
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1\Lab_1\bin\Debug\Lab_1.dll
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.dll
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
