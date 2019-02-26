@@ -1,0 +1,8 @@
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\bin\Debug\Lab_1_deneme.exe.config
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\bin\Debug\Lab_1_deneme.exe
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\bin\Debug\Lab_1_deneme.pdb
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\bin\Debug\Lab_1.dll
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\bin\Debug\Lab_1.pdb
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\obj\Debug\Lab_1_deneme.csprojResolveAssemblyReference.cache
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\obj\Debug\Lab_1_deneme.exe
+c:\users\ders\documents\visual studio 2015\Projects\Lab_1_deneme\Lab_1_deneme\obj\Debug\Lab_1_deneme.pdb
